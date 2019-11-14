@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/QtGuiApplication2">
+        <file>Resources/biteMarksOnBone.jpg</file>
+        <file>Resources/bloodSpill.jpg</file>
+        <file>Resources/bloodyHandprint.jpg</file>
+        <file>Resources/bloodyKnife.jpg</file>
+        <file>Resources/corpse.jpg</file>
+        <file>Resources/footprint.jpg</file>
+        <file>Resources/gun.jpg</file>
+        <file>Resources/hammer.jpg</file>
+        <file>Resources/images.jpg</file>
+        <file>Resources/rustyKnife.jpg</file>
+    </qresource>
+</RCC>
