@@ -1,5 +1,5 @@
 # Evidences-Manager
-
+--created during the second semester
 
 An application based on CRUD (create, read, update and delete) operations that provides a GUI made with QT.
 It features 2 modes: Senior Clearance Mode and Standard Clearance Mode.
