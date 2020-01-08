@@ -20,3 +20,5 @@ What I learned:
 -working with HTML files
 -open files in appropriate application (.csv->Excel, .txt->Notepad, .html->browser)
 -inheritance in C++
+
+UML diagram created ub StarUML
